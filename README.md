@@ -25,8 +25,8 @@ B: Indian Cuisine restaurant in New York city Presentation.pdf
 
   This file is used for my Presentation of my project and all the important information in it. The final information is from the FourSquare API file. 
   
-About the FOURSQUARE API file(Python Code), This is the Proposal of the actual location where a businessman from Tanzania can be able to open a New Business 
 
-in New York.
+About the FOURSQUARE API file(Python Code), This is the Proposal of the actual location where a businessman from Tanzania can be able to 
+open a New Business in New York.
   
   
